@@ -17,3 +17,22 @@ c:\users\matthew\documents\visual studio 2013\Projects\InTable\InTable\obj\Debug
 c:\users\matthew\documents\visual studio 2013\Projects\InTable\InTable\obj\Debug\PairingPage.g.cs
 C:\Users\Matthew\documents\visual studio 2013\Projects\InTable\InTable\bin\Debug\InTheHand.Net.Personal.dll
 C:\Users\Matthew\documents\visual studio 2013\Projects\InTable\InTable\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\bin\Debug\InTable.exe.config
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\InTable.exe
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\InTable.pdb
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\bin\Debug\InTable.exe
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\bin\Debug\InTable.pdb
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\InTable.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\MainWindow.baml
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\PairingPage.baml
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\StartPage.baml
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\MainWindow.g.cs
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\PairingPage.g.cs
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\StartPage.g.cs
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\App.g.cs
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\InTable_MarkupCompile.cache
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\InTable.g.resources
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\InTable.Properties.Resources.resources
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\InTable.csproj.GenerateResource.Cache

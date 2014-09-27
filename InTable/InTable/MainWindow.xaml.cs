@@ -48,5 +48,6 @@ namespace InTable
         {
             BLFrame.Navigate(new Uri("StartPage.xaml", UriKind.Relative));
         }
+
     }
 }

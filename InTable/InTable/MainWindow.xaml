@@ -14,21 +14,21 @@
             <ColumnDefinition Width="Auto" />
         </Grid.ColumnDefinitions>
         <!-- Top Left Button -->
-        <Button Grid.Row="0" Grid.Column="0" Content="Add User" RenderTransformOrigin=".5,.5" Click="TLButtonClick">
+        <Button Grid.Row="0" Grid.Column="0" Content="Add User" RenderTransformOrigin=".5,.5" TouchUp="TLButtonClick" Click="TLButtonClick" >
             <Button.RenderTransform>
                 <RotateTransform Angle="180"/>
             </Button.RenderTransform>
         </Button>
         <!-- Top Right Button -->
-        <Button Grid.Row="0" Grid.Column="3" Content="Add User" RenderTransformOrigin=".5,.5" Click="TRButtonClick">
+        <Button Grid.Row="0" Grid.Column="3" Content="Add User" RenderTransformOrigin=".5,.5" TouchUp="TRButtonClick" Click="TRButtonClick" >
             <Button.RenderTransform>
                 <RotateTransform Angle="180"/>
             </Button.RenderTransform>
         </Button>
         <!-- Bottom Right Button -->
-        <Button Grid.Row="1" Grid.Column="3" Content="Add User" Click="BRButtonClick" />
+        <Button Grid.Row="1" Grid.Column="3" Content="Add User" TouchUp="BRButtonClick" Click="BRButtonClick" />
         <!-- Bottom Left Button -->
-        <Button Grid.Row="1" Grid.Column="0" Content="Add User" Click="BLButtonClick" />
+        <Button Grid.Row="1" Grid.Column="0" Content="Add User" TouchUp="BLButtonClick" Click="BLButtonClick" />
         
         
         <!-- Top Left Frame-->
