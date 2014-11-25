@@ -13,5 +13,6 @@ namespace InTable
     /// </summary>
     public partial class App : Application
     {
+        
     }
 }

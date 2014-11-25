@@ -1,11 +1,11 @@
-﻿<Page x:Class="InTable.StartPage"
+﻿<Page x:Class="InTable.FinishedPreferences"
       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       mc:Ignorable="d" 
       d:DesignHeight="300" d:DesignWidth="300"
-	Title="StartPage">
+	Title="FinishedPreferences">
 
     <Grid>
         <Grid.RowDefinitions>
@@ -22,11 +22,21 @@
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="Auto" />
         </Grid.ColumnDefinitions>
-        
-        <StackPanel Grid.Column="2" Grid.Row="2" Orientation="Horizontal">
-            <Button Content="Have Card" Style="{StaticResource BaseButtonStyle}" Click="MemberButtonClick" Margin="10"/>
-            <Button Content="New Here" Style="{StaticResource BaseButtonStyle}" Click="NewHereButtonClick" Margin="10"/>
+
+        <StackPanel Grid.Column="2" Grid.Row="2" >
+            <TextBlock Text="Would you like to save your profile for next time?" />
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Button Content="Save" Grid.Column="0" Style="{StaticResource BaseButtonStyle}" Click="SaveButtonClick" Margin="0,10"/>
+                <Button Content="Skip Saving" Grid.Column="2" Style="{StaticResource BaseButtonStyle}" Click="SkipSaveButtonClick" Margin="0,10"/>
+            </Grid>
+
         </StackPanel>
-        
+
     </Grid>
 </Page>

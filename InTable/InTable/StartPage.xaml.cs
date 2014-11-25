@@ -32,7 +32,7 @@ namespace InTable
 
         private void NewHereButtonClick(object sender, RoutedEventArgs e)
         {
-            
+            NavigationService.Navigate(new Uri("PreferencePage.xaml", UriKind.Relative));
         }
     }
 }

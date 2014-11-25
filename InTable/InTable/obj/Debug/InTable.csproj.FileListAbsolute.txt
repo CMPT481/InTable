@@ -36,3 +36,10 @@ C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\InTable_Mark
 C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\InTable.g.resources
 C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\InTable.Properties.Resources.resources
 C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\InTable.csproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\App.baml
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\PreferencePage.baml
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\PreferencePage.g.cs
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\FinishedPreferences.baml
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\FinishedPreferences.g.cs
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\OrderPage.baml
+C:\Users\Matthew\Documents\GitHub\InTable\InTable\InTable\obj\Debug\OrderPage.g.cs

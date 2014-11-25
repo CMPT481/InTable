@@ -16,22 +16,21 @@ using System.Windows.Shapes;
 namespace InTable
 {
     /// <summary>
-    /// Interaction logic for PairingPage.xaml
+    /// Interaction logic for FinishedPreferences.xaml
     /// </summary>
-    public partial class PairingPage : Page
+    public partial class FinishedPreferences : Page
     {
-
-        private void TapButtonClick(object sender, RoutedEventArgs e)
+        public FinishedPreferences()
         {
-            NavigationService.Navigate(new Uri("OrderPage.xaml", UriKind.Relative));
+            InitializeComponent();
         }
 
-        private void TextBlock_GotTouchCapture(object sender, TouchEventArgs e)
+        private void SaveButtonClick(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new Uri("OrderPage.xaml", UriKind.Relative));
+            NavigationService.Navigate(new Uri("SavingPage.xaml", UriKind.Relative));
         }
 
-        private void TextBlock_GotMouseCapture(object sender, MouseEventArgs e)
+        private void SkipSaveButtonClick(object sender, RoutedEventArgs e)
         {
             NavigationService.Navigate(new Uri("OrderPage.xaml", UriKind.Relative));
         }

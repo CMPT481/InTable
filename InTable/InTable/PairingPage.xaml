@@ -24,8 +24,8 @@
         </Grid.ColumnDefinitions>
 
         <StackPanel Grid.Column="2" Grid.Row="2" Orientation="Horizontal">
-            <TextBlock Text="Tap your card at the end of the table." />
-            <Button Content="Receive"/>
+            <TextBlock Text="Tap your card at the end of the table." TouchDown="TextBlock_GotTouchCapture" MouseDown="TextBlock_GotMouseCapture"/>
+            <!--<Button Content="Receive" Style="{StaticResource BaseButtonStyle}" Click="TapButtonClick"/>-->
         </StackPanel>
     </Grid>
 </Page>
